@@ -1,2 +1,5 @@
-#!/usr/bin/python
-print("Hello World!")
+message = "Hello World!"
+print(message)
+
+message = "Hello Moose!"
+print(message)
