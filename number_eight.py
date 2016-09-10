@@ -1,0 +1,5 @@
+print(5 + 3)
+print(4 / 2 + 6)
+print(3 / 2 + 7)
+print(1 * 8)
+print(int(3.0 / 2 + 6.5))
